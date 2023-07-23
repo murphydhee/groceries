@@ -4,8 +4,8 @@
     <Home class="pt-7"/>
     <Category/>
     <Recipes/>
-    <Subscribe/>
-    <Footer/>
+<!--    <Subscribe/>-->
+<!--    <Footer/>-->
   </div>
 </template>
 

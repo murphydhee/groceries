@@ -3,7 +3,7 @@
     :modules="modules"
     :slides-per-view="1"
     :pagination="{ clickable: true }"
-    class="pb-8"
+    class="pb-12 bg-gradient-to-b from-primary-200/20 to-secondary-/20 rounded-lg"
   >
     <swiper-slide class="grid place-items-center">
       <img src="../assets/images/garri01.png" class="w-2/3 lg:w-[80%] pt-5" alt="groceries, sweetners, cream and floating berries and ice" />
@@ -45,4 +45,13 @@ const modules = [Pagination]
   .swiper-pagination-bullet.swiper-pagination-bullet-active {
     @apply rounded-xl w-6  bg-secondary
   }
+  .image_card {
+    display: flex;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  }
 </style>
+
+<!--bg-gradient-to-r from-secondary-500-->
