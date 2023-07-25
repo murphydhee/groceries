@@ -1,6 +1,6 @@
 <template>
   <div class="relative my-32 bg-gradient-to-b from-primary-200/30 to-primary-100/10 pb-10 md:pb-32 rounded-lg -mx-5">
-    <div class="p-10 md:p-1 ">
+    <div class="p-10 ">
       <div class="flex items-center justify-between">
         <div>
           <h2 class="text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 mt-5 md:mt-0">Subscribe</h2>
