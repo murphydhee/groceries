@@ -1,3 +1,5 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   darkMode: false,
@@ -19,6 +21,10 @@ module.exports = {
         },
         secondary: '#FF693A'
       }
+    },
+    screens: {
+      'xs': '320px',
+      ...defaultTheme.screens,
     },
   },
   variants: {

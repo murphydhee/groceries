@@ -1,11 +1,11 @@
 <template>
   <div class="container overflow-x-hidden">
     <Navbar/>
-    <Home class="pt-7"/>
+    <Home class="pt-8"/>
     <Category/>
     <Recipes/>
-<!--    <Subscribe/>-->
-<!--    <Footer/>-->
+    <Subscribe/>
+    <Footer/>
   </div>
 </template>
 
