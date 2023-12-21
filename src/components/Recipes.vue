@@ -42,7 +42,7 @@
       </div>
       <p class="mt-8 md:mt-12 text-white text-lg md:text-xl w-full md:w-[80%]">
         These subtly sweet cookies are crisp and delicious. They are made from
-        similar ingredients of sweetners, and optional floating berries for
+        similar ingredients of sweetners & optional floating berries for
         flavour.
       </p>
     </div>
